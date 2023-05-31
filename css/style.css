@@ -137,7 +137,7 @@ nav {
 
 /* main */
 #main1 {
-  background: url("/img/showcase.jpg") no-repeat;
+  background: url("../img/showcase.jpg") no-repeat;
   color: #fff;
   text-align: center;
   /* padding: 10% 15%; */
@@ -184,7 +184,7 @@ nav {
 }
 
 #home-info .home-img {
-  background: url("/img/photo-1.jpg") no-repeat center center / cover;
+  background: url("../img/photo-1.jpg") no-repeat center center / cover;
   float: left;
   width: 50%;
   min-height: 100%;
