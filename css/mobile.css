@@ -1,0 +1,66 @@
+
+/* navbar */
+nav .logo {
+  float: none;
+  text-align: center;
+}
+
+nav .logo a {
+  margin-left: 0;
+}
+
+nav ul,
+nav ul li {
+  float: none;
+  text-align: center;
+}
+
+nav ul li a {
+  padding: 5px;
+  border-bottom: 1px dotted #444;
+}
+
+
+
+
+
+/* home info */
+#home-info .home-img {
+  display: none;
+}
+
+#home-info .home-content {
+  text-align: center;
+  float: none;
+  width: 100%;
+}
+
+
+
+
+
+/* section 2 */
+.box {
+  float: none;
+  width: 100%;
+}
+
+
+
+
+
+/* about info */
+#about-info .info-left,
+#about-info .info-right {
+  float: none;
+  width: 100%;
+}
+
+.lg-heading {
+  text-align: center;
+}
+
+
+
+
+
